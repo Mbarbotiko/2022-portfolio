@@ -1,0 +1,13 @@
+nav {
+    border: solid 4px red;
+    width: 3000px;
+    height: 10vh;
+}
+
+
+
+nav li {
+    display: inline;
+
+
+}
