@@ -1,0 +1,7 @@
+aside{
+    position: absolute;
+    bottom: 50vh;
+    left: 5vw;
+    border: solid yellow 5px;
+    display: inline-block;
+}

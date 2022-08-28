@@ -1,14 +1,18 @@
 nav {
+    display: flex;
     border: solid 4px red;
-    width: 3000px;
-    height: 15vh;
-    width: 100vw;
+    height: 6vw;
+    position: absolute;
+    bottom: 50px;
+    width:3500px;
+    left:-25%;
+    
 }
-
-
 
 nav li {
     display: inline;
+}
 
-
+nav img {
+height: 100%;
 }

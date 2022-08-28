@@ -1,9 +1,21 @@
 main {
     /* height: 80vh; */
     height: 100%;
- 
+    background: linear-gradient(rgba(1, 1, 29, 0.726), rgba(174, 255, 210, 0.74)), url(../navigation/images/triviagame.jpg);
+    /* background: linear-gradient(to right, transparent, mistyrose),
+    url(../navigation/images/squirtle.jpg); */
+    /* background-image: url(../navigation/images/squirtle.jpg); */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients */
     background-repeat: no-repeat;
     background-size: cover;
-    background: linear-gradient(rgba(2, 2, 58, 0.274), rgba(192, 255, 220, 0.253));
-    /* background-image: url(../navigation/images/squirtle.jpg); */
+    color: white;
+}
+
+main section{
+    border: solid 5px red;
+    position:  relative;
+    display: inline-block;
+    top: 10vh;
+    left: 5vw;
+   
 }
