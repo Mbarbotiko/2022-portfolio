@@ -1,8 +1,9 @@
 main {
-    border: solid 4px blue;
-    height: 90vh;
-    background-image: url(../navigation/images/squirtle.jpg);
+    /* height: 80vh; */
+    height: 100%;
+ 
     background-repeat: no-repeat;
     background-size: cover;
+    background: linear-gradient(rgba(2, 2, 58, 0.274), rgba(192, 255, 220, 0.253));
+    /* background-image: url(../navigation/images/squirtle.jpg); */
 }
-

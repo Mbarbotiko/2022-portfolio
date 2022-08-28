@@ -1,10 +1,38 @@
-body {
-    background-color: black;
-
-    box-sizing: border-box;
-    width: 100%;
+html {
     height: 100%;
-    border: solid green 10px;
-    padding: 5px;
-    height:100vh;
+}
+
+body {
+    height: 100%;
+    background-color: black;
+    box-sizing: border-box;
+    border: solid#1ce781 25px;
+    /* min-height: 100vh;
+    min-width: 100vw; */
+    padding: 0;
+
+}
+
+h1 {
+    font-size: 32pt;
+}
+
+h2 {
+    font-size: 26pt;
+}
+
+h3 {
+    font-size: 22pt;
+}
+
+h4 {
+    font-size: 20pt;
+}
+
+h5 {
+    font-size: 18pt;
+}
+
+P {
+    font-size: 16pt;
 }
