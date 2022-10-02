@@ -7,8 +7,8 @@ body {
     background-color: black;
     box-sizing: border-box;
     border: solid#1ce781 25px;
-    /* min-height: 100vh;
-    min-width: 100vw; */
+    min-height: 100vh;
+    min-width: 100vw;
     padding: 0;
 
 }

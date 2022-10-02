@@ -12,7 +12,7 @@ main {
 }
 
 main section{
-    border: solid 5px red;
+    border: solid 5px purple;
     position:  relative;
     display: inline-block;
     top: 10vh;
