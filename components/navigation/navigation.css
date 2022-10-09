@@ -1,6 +1,6 @@
 nav {
     display: flex;
-    border: solid 1px red;
+    /* border: solid 1px red; */
     height: 6vw;
     position: absolute;
     bottom: 50px;
@@ -22,6 +22,13 @@ nav img {
     padding-right: 2px;
     /* box-shadow:.5em .5em .25em rgb(68, 65, 65); */
 }
+
+nav li:nth-of-type(5) img{
+    border: solid 5px #19d477;
+    background-color: #fff;
+    box-shadow: 0px 0px 40px 10px #1ce781;
+    height: 105%;
+  }
 
 
 nav li[navigate] img {

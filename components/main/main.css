@@ -11,11 +11,24 @@ main {
     color: white;
 }
 
-main section{
+main section div:nth-of-type(1){
     border: solid 5px purple;
     position:  relative;
     display: inline-block;
-    top: 10vh;
+    top: 5vh;
     left: 5vw;
    
+}
+
+main section div:nth-of-type(2){
+    border: solid 5px yellow;
+    position:  relative;
+    top: 2vh;
+    left:25%;
+    width:50vw;
+    height:50vh;
+}
+main section div:nth-of-type(2) img{
+    height:100%;
+    width:100%;
 }
